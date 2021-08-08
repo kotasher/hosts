@@ -1,4 +1,4 @@
-# Last updated: 2021-08-08 15:00:05.85474468 +0000 UTC 
+# Last updated: 2021-08-08 21:00:04.947370375 +0000 UTC 
 # Total blocked hosts: 149821
 0.0.0.0 0.0.0.0
 # Blocked hosts below this line 
@@ -40453,7 +40453,6 @@
 0.0.0.0 dn.adzerver.com
 0.0.0.0 dn.msmstatic.com
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
-0.0.0.0 dn3nmb5yt1ysw.cloudfront.net
 0.0.0.0 dn3uy6cx65ujf.cloudfront.net
 0.0.0.0 dn3y71tq7jf07.cloudfront.net
 0.0.0.0 dn577w7w8p16u.cloudfront.net
@@ -68779,6 +68778,7 @@
 0.0.0.0 lulusoft.com
 0.0.0.0 lumatag.co.uk
 0.0.0.0 lumberamount.com
+0.0.0.0 lumberrule.com
 0.0.0.0 lumcarring.fun
 0.0.0.0 lumenera.actonservice.com
 0.0.0.0 lumileads.g2afse.com
